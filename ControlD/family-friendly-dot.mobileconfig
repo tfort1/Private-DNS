@@ -57,7 +57,7 @@
 <key>PayloadDescription</key>
 <string>Adds different encrypted DNS configurations to Big Sur and iOS 14 based systems</string>
 <key>PayloadDisplayName</key>
-<string>Encrypted DNS (DoH, DoT)</string>
+<string>ControlD Family (DoT)</string>
 <key>PayloadIdentifier</key>
 <string>com.notjakob.apple-dns.492e02d1-9078-450c-b009-bc085d638353</string>
 <key>PayloadRemovalDisallowed</key>
