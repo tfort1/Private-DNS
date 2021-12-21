@@ -20,9 +20,9 @@
 				<string>https://freedns.controld.com/family</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use ControlD Family Protection Encrypted DNS over HTTPS</string>
+			<string>Configures device to use ControlD Family Friendly Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>ControlD Family Protection DNS over HTTPS</string>
+			<string>ControlD Family Friendly DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.56f69d61-c1d2-422b-989a-adeeb1b6ddc0</string>
 			<key>PayloadType</key>
@@ -36,11 +36,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the ControlD Family Protection DNS to iOS 14/15 based systems</string>
+	<string>Adds the ControlD Family Friendly DNS to iOS 14/15 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>ControlD Family Protection DNS over HTTPS</string>
+	<string>ControlD Family Friendly DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.tfort1.private-dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
