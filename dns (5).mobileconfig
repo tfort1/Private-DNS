@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>TLS</string>
+<key>ServerAddresses</key>
+<array>
+<string>2a10:50c0::bad1:ff</string>
+<string>2a10:50c0::bad2:ff</string>
+<string>94.140.14.15</string>
+<string>94.140.15.16</string>
+</array>
+<key>ServerName</key>
+<string>dns-family.adguard.com</string>
+</dict>
+<key>OnDemandRules</key>
+<array>
+<dict>
+<key>Action</key>
+<string>Connect</string>
+<key>InterfaceTypeMatch</key>
+<string>WiFi</string>
+</dict>
+<dict>
+<key>Action</key>
+<string>Connect</string>
+<key>InterfaceTypeMatch</key>
+<string>Cellular</string>
+</dict>
+<dict>
+<key>Action</key>
+<string>Disconnect</string>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Configures device to use AdGuard Family Protection Encrypted DNS over TLS</string>
+<key>PayloadDisplayName</key>
+<string>AdGuard Family Protection DNS over TLS</string>
+<key>PayloadIdentifier</key>
+<string>com.apple.dnsSettings.managed.bbe285de-554a-4d1c-80c4-743ee5d2c44c</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>c867bc79-bd98-41d1-8616-8fa9ec39acf3</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>ProhibitDisablement</key>
+<false/>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Adds different encrypted DNS configurations to Big Sur and iOS 14 based systems</string>
+<key>PayloadDisplayName</key>
+<string>Encrypted DNS (DoH, DoT)</string>
+<key>PayloadIdentifier</key>
+<string>com.notjakob.apple-dns.d12017b0-55df-414f-83cc-0cc0c629423f</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>7aa44da3-96a4-46ea-bba3-aa938c7b797e</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</plist>
