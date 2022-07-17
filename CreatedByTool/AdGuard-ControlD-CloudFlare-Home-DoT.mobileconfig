@@ -32,15 +32,15 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Configures device to use AdGuard Family DoT Encrypted DNS over TLS</string>
+<string>Configures device to use AdGuard Family Encrypted DNS over TLS</string>
 <key>PayloadDisplayName</key>
-<string>AdGuard Family DoT DNS over TLS</string>
+<string>AdGuard Family DNS over TLS</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.dnsSettings.managed.1f2fafc9-d973-449f-9a69-724c52b6dde3</string>
+<string>com.apple.dnsSettings.managed.130c5063-bc33-4404-b0d1-7e33edd19045</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>f8780fb8-a1bd-4c62-bcb2-9db4957b550c</string>
+<string>6cbe89f4-68e8-451d-9a07-66e602614f5b</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>ProhibitDisablement</key>
@@ -74,15 +74,15 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Configures device to use ControlD Custom (DoT) Encrypted DNS over TLS</string>
+<string>Configures device to use ControlD Encrypted DNS over TLS</string>
 <key>PayloadDisplayName</key>
-<string>ControlD Custom (DoT) DNS over TLS</string>
+<string>ControlD DNS over TLS</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.dnsSettings.managed.1f29fee7-ea16-4b2e-85a7-c9d1dd52861c</string>
+<string>com.apple.dnsSettings.managed.93af7908-36f7-45de-b0dd-443217a9376f</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>38fe2cc9-ba57-4e0f-b978-91d2267e1985</string>
+<string>233de268-17e0-4765-8958-5737961778a6</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>ProhibitDisablement</key>
@@ -116,15 +116,15 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Configures device to use CloudFlare Family DoT Encrypted DNS over TLS</string>
+<string>Configures device to use CloudFlare Family Encrypted DNS over TLS</string>
 <key>PayloadDisplayName</key>
-<string>CloudFlare Family DoT DNS over TLS</string>
+<string>CloudFlare Family DNS over TLS</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.dnsSettings.managed.b681782b-e22a-418d-b8ad-e8388b99f168</string>
+<string>com.apple.dnsSettings.managed.8f527a97-a2e5-4d83-aa47-3f0ba40a3b9d</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>b7348397-998c-4de3-821e-a12381ba09c5</string>
+<string>4716bb18-991f-4efd-945c-ba90414a3593</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>ProhibitDisablement</key>
@@ -158,15 +158,15 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Configures device to use dns.m365skillz.com Encrypted DNS over TLS</string>
+<string>Configures device to use Azure Encrypted DNS over TLS</string>
 <key>PayloadDisplayName</key>
-<string>dns.m365skillz.com DNS over TLS</string>
+<string>Azure DNS over TLS</string>
 <key>PayloadIdentifier</key>
-<string>com.apple.dnsSettings.managed.d9e9c43e-431f-47e0-afee-5ada85b712c1</string>
+<string>com.apple.dnsSettings.managed.50f335f9-1c33-4e50-ae3d-80f007918ae6</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>0dd2b8a7-07f6-4e25-b1d7-1392694979be</string>
+<string>d4cbde4f-64a5-45b7-a70e-6cb34105c834</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>ProhibitDisablement</key>
@@ -178,13 +178,13 @@
 <key>PayloadDisplayName</key>
 <string>Encrypted DNS (DoH, DoT)</string>
 <key>PayloadIdentifier</key>
-<string>com.notjakob.apple-dns.1990d23e-595c-4461-9ba8-7847ed4cc041</string>
+<string>com.notjakob.apple-dns.bcb2515a-4db0-4228-b091-e85967aa3163</string>
 <key>PayloadRemovalDisallowed</key>
 <false/>
 <key>PayloadType</key>
 <string>Configuration</string>
 <key>PayloadUUID</key>
-<string>67b69d2d-45b8-4fee-a583-6ff5a473508d</string>
+<string>1e8a76e6-f7b6-4cdb-afde-ab645ca4316a</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
